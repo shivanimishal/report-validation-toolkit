@@ -1,0 +1,5 @@
+vendor_id,vendor_name,total_spend,invoice_count,region
+V001,Apex Supplies Ltd,152000.00,12,APAC
+V002,Meridian Tech,280000.00,8,EMEA
+V003,CoreLogic Partners,95000.00,15,AMER
+V004,New Vendor Inc,45000.00,3,APAC
